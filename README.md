@@ -1,2 +1,4 @@
 # GOREA
-The tool for summarizing GOBP and extracting meaningful biological context
+
+## This tool is for summarizing GOBP and extracting meaningful biological context.
+
