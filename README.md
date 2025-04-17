@@ -29,7 +29,7 @@ The clustering results are displayed as a heatmap, with the representative terms
 
 
 ## Run GOREA
-Using the following code, GOREA analysis is conducted.
+The following code is used to perform GOREA analysis.
 
 ```R
 
